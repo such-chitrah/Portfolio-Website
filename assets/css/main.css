@@ -1959,8 +1959,8 @@ In this example, we're setting the bottom padding of all paragraphs to 10 pixels
 			font-family: 'Times New Roman', sans-serif;
 			font-size: 14px;
 			text-align: justify;
-			text-justify: inter-word;
-			line-height: 13pt;
+	  	text-justify: inter-word;
+	  	line-height: 13pt;
 		}
 		
 
