@@ -1,5 +1,2 @@
-# HTML5Up - Miniport
-Sourced From: https://html5up.net
+# Hello! Welcome to the repository of my Personal Website
 
-To demo this template:
-https://kmsc.github.io/HTML5UpMiniport/
